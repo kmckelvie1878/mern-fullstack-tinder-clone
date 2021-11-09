@@ -2,9 +2,10 @@
 ## Live Link
 https://mern-tinder-clone-7caf0.web.app/
 
-Built with the MERN stack (MongoDB, Express, React, Node) 
-Front end deployed to Firebase
-Back end deployed to Heroku
+Built with the [MERN] stack (MongoDB, Express, React, Node)
+
+Front end deployed to Firebase.\
+Back end deployed to Heroku.
 
 # Getting Started with Create React App
 
